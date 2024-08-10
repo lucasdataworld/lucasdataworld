@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on analyzing projects and learning new things.
 - 📫 How to reach me: lucaswambaster2010@icloud.com. 
 - 😄 Pronouns: He/him.
-- ⚡ Fun fact: I enjoy playing a lot of Valorant.
+- ⚡ Fun fact: I enjoy playing Valorant.
 
 <!---
 lucasdataworld/lucasdataworld is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
